@@ -1,0 +1,6 @@
+*.swp
+bin/
+roms/nes/*.*
+roms/smc/*.*
+roms/sms/*.*
+osmose_files/

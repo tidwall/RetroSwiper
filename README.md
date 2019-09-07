@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://tile38.com"><img 
-    src="dev/res/logo4.png" 
-  height="110" border="0" alt="RetroSwiper"></a>
+  <img src="dev/res/logo4.png" height="110" border="0" alt="RetroSwiper">
 </p>
 
 <p align="center">
